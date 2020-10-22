@@ -6,17 +6,18 @@
     "build": "vite build"
   },
   "dependencies": {
-    "@googlemaps/js-api-loader": "^1.4.0",
+    "@turf/area": "^6.0.1",
     "between": "git+https://github.com/paraboul/between.git",
     "js-base64": "^3.5.2",
+    "leaflet": "^1.7.1",
     "tailwindcss": "^1.8.11",
-    "vue": "^3.0.0-rc.1"
+    "vue": "^3.0.2"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "@vue/compiler-sfc": "^3.0.2",
     "autoprefixer": "^9.7.5",
     "postcss": "^8.1.1",
     "postcss-cli": "^8.0.0",
-    "vite": "^1.0.0-rc.1"
+    "vite": "^1.0.0-rc.4"
   }
 }
